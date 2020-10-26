@@ -37,7 +37,7 @@ const Home = () => {
 
     return (
         <Layout
-            title="My An Kitchenware"
+            title="Online Store"
             description=""
             className="container-fluid"
         >
