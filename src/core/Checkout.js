@@ -50,10 +50,10 @@ const Checkout = ({ products, setRun = f => f, run = undefined }) => {
         return isAuthenticated() ? (
             <div>{showDropIn()}</div>
         ) : (
-            <Link to="/signin">
-                <button className="btn btn-primary">Sign in to checkout</button>
-            </Link>
-        );
+                <Link to="/signin">
+                    <button className="btn btn-primary">Sign in to checkout</button>
+                </Link>
+            );
     };
 
     let deliveryAddress = data.address;
