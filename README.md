@@ -17,3 +17,9 @@ REACT_APP_API_URL=http://localhost:8000/api
 
 # Start
 $ npm start
+
+# Images
+![Screenshot](rsz_1homepage.png)
+![Screenshot](rsz_productpage.png)
+
+
